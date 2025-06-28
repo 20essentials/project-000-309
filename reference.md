@@ -1,4 +1,0 @@
-- **Reference ⬇️**
-  - [MDN @media hover](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/hover)
-  - [Loading Pattern](https://loading.io/pattern/)
-  - [Can I use Support](https://caniuse.com/?search=media%20hover)
